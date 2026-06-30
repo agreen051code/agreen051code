@@ -15,5 +15,7 @@
 
 
 [instagram]: https://www.instagram.com/andre_g2769
-[linkedin]: https://linkedin.com/in/AndreGreen
+[linkedin]: https://linkedin.com/in/andre-green-464b1427b
+
+
 
