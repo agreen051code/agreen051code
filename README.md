@@ -14,6 +14,6 @@
 [<img align="left" alt="Andre | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[instagram]: https://www.instagram.com/andre_g2769
+[linkedin]: https://linkedin.com/in/Andre Green
 [twitter]: https://twitter.com/
